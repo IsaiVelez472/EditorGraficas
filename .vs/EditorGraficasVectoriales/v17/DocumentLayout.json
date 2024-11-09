@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\dibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\dibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\frmeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\frmeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\listadibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\listadibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\frmeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\frmeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\frmeditor.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\frmeditor.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\frmeditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\frmeditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\nododibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\nododibujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|c:\\users\\isaiv\\desktop\\git\\iupb_ed_editorgraficas\\editorgraficasvectoriales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB159A03-7450-4D07-8999-A6878098B5D5}|EditorGraficasVectoriales\\EditorGraficasVectoriales.csproj|solutionrelative:editorgraficasvectoriales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEditor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\FrmEditor.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EditorGraficasVectoriales\\FrmEditor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:53:29.145Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEditor.resx",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.resx",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\FrmEditor.resx",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.resx",
+              "RelativeToolTip": "EditorGraficasVectoriales\\FrmEditor.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-09T15:53:26.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEditor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.Designer.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\FrmEditor.Designer.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.Designer.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\FrmEditor.Designer.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAowI8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:53:16.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaDibujo.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\ListaDibujo.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\ListaDibujo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\ListaDibujo.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\ListaDibujo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:21:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dibujo.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\Dibujo.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\Dibujo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\Dibujo.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\Dibujo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:20:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodoDibujo.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\NodoDibujo.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\NodoDibujo.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\NodoDibujo.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\NodoDibujo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:20:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\Program.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\Program.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\Program.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:16:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEditor.cs",
+              "DocumentMoniker": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.cs",
+              "RelativeDocumentMoniker": "EditorGraficasVectoriales\\FrmEditor.cs",
+              "ToolTip": "C:\\Users\\isaiv\\Desktop\\GIT\\IUPB_ED_EditorGraficas\\EditorGraficasVectoriales\\FrmEditor.cs",
+              "RelativeToolTip": "EditorGraficasVectoriales\\FrmEditor.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAADwv9EAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:11:25.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

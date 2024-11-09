@@ -59,6 +59,7 @@
             btnAbrir.Size = new Size(52, 52);
             btnAbrir.Text = "toolStripButton3";
             btnAbrir.ToolTipText = "Abrir";
+            btnAbrir.Click += btnAbrir_Click;
             // 
             // cmbTrazo
             // 
@@ -77,6 +78,7 @@
             btnDibujar.Size = new Size(52, 52);
             btnDibujar.Text = "btnDibujar";
             btnDibujar.ToolTipText = "Dibujar";
+            btnDibujar.Click += btnDibujar_Click;
             // 
             // btnSeleccionar
             // 
@@ -99,6 +101,7 @@
             btnBorrar.Size = new Size(52, 52);
             btnBorrar.Text = "toolStripButton1";
             btnBorrar.ToolTipText = "Borrar";
+            btnBorrar.Click += btnBorrar_Click;
             // 
             // btnGuardar
             // 
@@ -110,6 +113,7 @@
             btnGuardar.Size = new Size(52, 52);
             btnGuardar.Text = "toolStripButton2";
             btnGuardar.ToolTipText = "Guardar";
+            btnGuardar.Click += btnGuardar_Click;
             // 
             // btnLimpiar
             // 
@@ -120,6 +124,7 @@
             btnLimpiar.Name = "btnLimpiar";
             btnLimpiar.Size = new Size(52, 52);
             btnLimpiar.Text = "Limpiar";
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // pnlDibujo
             // 
